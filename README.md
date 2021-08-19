@@ -1,6 +1,6 @@
 # final_project
 
-This is a project achieved Forward+ rendering and Deferred rendering. To switch the rendering technique, you just need to change the "renderer" in main.cpp and choose the technique you want. Some codes are based on learnopengl tutorial(Model.h, Mymesh.h).
+This is a project achieved Forward+ rendering and Deferred rendering. The source codes are in the ../Project file. To switch the rendering technique, you just need to change the "renderer" in main.cpp and choose the technique you want. Some codes are based on learnopengl tutorial(Model.h, Mymesh.h) and tutorial in CSC8502.
 
 Environment: Win32 Debug VS2019
 
