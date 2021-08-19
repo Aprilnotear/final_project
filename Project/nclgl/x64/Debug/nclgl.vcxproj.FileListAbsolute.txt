@@ -1,0 +1,4 @@
+D:\study\Newcastle University\graphic\x64\Debug\nclgl.pdb
+D:\study\Newcastle University\graphic\nclgl\x64\Debug\nclgl.pdb
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\x64\Debug\nclgl.pdb
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\x64\Debug\nclgl.pdb

@@ -1,0 +1,41 @@
+﻿  glad.c
+  Camera.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  ComputeShader.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  CubeRobot.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Frustum.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  GameTimer.cpp
+  HeightMap.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\HeightMap.cpp(24,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\HeightMap.cpp(24,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\HeightMap.cpp(25,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\HeightMap.cpp(25,36): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Keyboard.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Light.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Mesh.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  MeshAnimation.cpp
+  MeshMaterial.cpp
+  Mouse.cpp
+  OGLRenderer.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Plane.cpp
+  Quaternion.cpp
+  SceneNode.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Shader.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  Compiling...
+  Window.cpp
+D:\study\Newcastle University\8502\CW2\OpenGL coursework\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  nclgl.vcxproj -> D:\study\Newcastle University\8502\CW2\OpenGL coursework\x64\Debug\nclgl.lib

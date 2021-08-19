@@ -1,0 +1,2 @@
+D:\study\Newcastle University\graphic\Win32\Debug\nclgl.pdb
+D:\study\Newcastle University\graphic\nclgl\Win32\Debug\nclgl.pdb

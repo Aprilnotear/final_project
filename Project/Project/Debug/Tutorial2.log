@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Tutorial 02 - Matrix transformations.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+D:\study\Newcastle University\8502\CW2\Project\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\study\Newcastle University\8502\CW2\Project\Project\Camera.cpp(56,16): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Deferred.cpp
+D:\study\Newcastle University\8502\CW2\Project\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\study\Newcastle University\8502\CW2\Project\Project\Deferred.cpp(112,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\study\Newcastle University\8502\CW2\Project\Project\Deferred.cpp(166,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Model.cpp
+D:\study\Newcastle University\8502\CW2\Project\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Mymesh.cpp
+D:\study\Newcastle University\8502\CW2\Project\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Renderer.cpp
+D:\study\Newcastle University\8502\CW2\Project\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\study\Newcastle University\8502\CW2\Project\Project\Renderer.cpp(184,77): warning C4244: 'argument': conversion from 'const float' to 'GLsizei', possible loss of data
+D:\study\Newcastle University\8502\CW2\Project\Project\Renderer.cpp(184,63): warning C4244: 'argument': conversion from 'const float' to 'GLsizei', possible loss of data
+  main.cpp
+D:\study\Newcastle University\8502\CW2\Project\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+nclgl.lib(ComputeShader.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(ComputeShader.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(GameTimer.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(GameTimer.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(Keyboard.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(Keyboard.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(Matrix2.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(Matrix2.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(Matrix4.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(Matrix4.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(Mesh.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(Mesh.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(Mouse.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(Mouse.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(OGLRenderer.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(OGLRenderer.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(Shader.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(Shader.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(Window.obj) : warning LNK4099: PDB 'nclgl.pdb' was not found with 'nclgl.lib(Window.obj)' or at 'D:\study\Newcastle University\8502\CW2\Project\Debug\nclgl.pdb'; linking object as if no debug info
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+  Tutorial2.vcxproj -> D:\study\Newcastle University\8502\CW2\Project\Debug\MyProject.exe
